@@ -1,4 +1,4 @@
-# Web Development Internship Project at CodersCave
+# Web Development Internship at CodersCave
 
 Welcome to mine github repository of web development projects at CodersCave Internship.
 
